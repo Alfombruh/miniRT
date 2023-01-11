@@ -74,4 +74,4 @@ cy 20,20,50 0,1,0 10.6 21.2 150,20,70 (cy is the Cylinder element, it has coords
 
 //FUN FACT//
 
--Ray tracing wasnt functioning as intended because I was using an int to save the distance instead of a double. I noticed this because I tried to print with %f and the compiler told me to use %d, huge shoutout to gcc and the GNU team, love u guys <3(I SPENT A WHOLE WEEK DEBUGGIN THIS SO FINDING OUT IT WAS THIS MADE ME GO BANANAS)
+-Ray tracing wasnt functioning as intended because I was using an int to save the distance instead of a double. I noticed this because I tried to print with %f and the compiler told me to use %d, huge shoutout to gcc and the GNU team, love u guys <3(I SPENT A WHOLE WEEK DEBUGGIN THIS TO FIND OUT THIS. WENT BANANAS)
